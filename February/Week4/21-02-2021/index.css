@@ -1,0 +1,132 @@
+body {
+    margin: 0px;
+    background-image: url(https://images.pexels.com/photos/1517358/pexels-photo-1517358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}
+
+header {
+    background-color: black;
+    text-align: center;
+    padding: 3px 200px;
+    color: white;
+    /*opacity: 0%;*/
+}
+
+.float_left{
+    float: left;
+}
+
+.float_right{
+    float: right;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+}
+
+.tutorial,h4{
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 20px;
+    border: 1px solid #6e93eb;
+    color: white; 
+}
+
+#body{
+    color:blueviolet;
+}
+
+.in{
+    display: inline-block;
+    margin: 20px;
+    padding: 0;
+    width: 200px;
+    
+}
+
+.no{
+    display: none;
+}
+
+.dropdown-trigger2{
+    display: none;
+}
+
+.dropdown-trigger1:hover > .dropdown-trigger2{
+    display: initial;
+}
+
+.dropdown-trigger2-1:hover > ul{
+    display: initial;
+}
+
+.dropdown-trigger2-2:hover > ul{
+    display: initial;
+}
+
+.dropdown-trigger2-3:hover > ul{
+    display: initial;
+}
+
+.maindiv{
+    text-align: center;
+}
+ul{
+    text-align: left;
+    
+}
+.tutorial:hover,h4:hover{
+    background-color:lightgreen;
+    border: 2px solid #12aaa8;
+    color: white;
+    cursor: pointer;
+    font-size: 35px;
+    box-shadow: 5px 5px 5px #78a1ff;
+}
+li:hover{
+cursor: pointer;
+color: #abc4ff;
+background-color: white;
+padding-left: 10px ;
+border-radius: 5px;
+font-size: larger;
+}
+
+h1{
+    color: red;
+}
+
+#footer{
+    background-color: rgb(183, 159, 139);
+    color: white;
+    text-align: center;
+    padding: 40px;
+    margin-top: 350px;
+}
+.fa {
+padding: 20px;
+font-size: 30px;
+width: 30px;
+text-align: center;
+text-decoration: none;
+margin: 5px 2px;
+border-radius: 50%;
+}
+
+.fa:hover {
+opacity: 0.7;
+}
+
+.fa-facebook {
+background: #3B5998;
+color: white;
+}
+
+.fa-instagram {
+background: #125688;
+color: white;
+}
+
+.fa-whatsapp {
+background: #0b9922;
+color: white;
+}
