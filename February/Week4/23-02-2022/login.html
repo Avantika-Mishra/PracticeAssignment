@@ -1,0 +1,35 @@
+<!--Login from UI-->
+
+<html>
+    <head>
+        <title>Avantika</title>
+        <link rel="icon" href="https://i.pinimg.com/736x/bc/52/45/bc52454a8812c6dc9d8d917e3086ae23.jpg">
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./login.css">
+    </head>
+    <body>
+        <h1>Login</h1><br/>
+        <div id="container">
+        <form action="home.html">
+        <label id="color" for="email">Username:-</label>
+        <input type="text" id="box"	placeholder="Enter email" name="email" required pattern=".+@gmail\.com" value="" required autofocus/><br/><br/>
+        <label id="color" for="password">Password:-</label>
+        <input type="password" id="box"	placeholder="Enter Password" name="password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Must contain atleast one number and one uppercase and lowercase letter,and atleast 8 or more characters"   required autofocus/><br/><br/>
+
+         <button id="btn" type="submit" name="tnc">Login</button>
+        </form><br/>
+
+        <p>Create New account.</p>
+            <a class="" href="./registration.html">Register Now</a>
+        </div>
+        <div id="message">
+            <h3>Password must contain the following:</h3><br/>
+            <p id="letter" class="invalid">A <b>lowercase</b> letter</p><br/>
+            <p id="capital" class="invalid">A <b>capital (uppercase)</b> letter</p><br/>
+            <p id="number" class="invalid">A <b>number</b></p><br/>
+            <p id="length" class="invalid">Minimum <b>8 characters</b></p><br/>
+          </div>
+    </body>
+</html>
