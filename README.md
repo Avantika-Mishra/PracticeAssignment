@@ -2,7 +2,7 @@
 
 Hosted Links:-
 
-21/02/2022:-(https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/February/Week4/21-02-2021/index.html)
+21/02/2022:-(https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/February/Week4/21-02-2022/index.html)
 
 22/02/2022:-[Assignment 1:- Calculator-(https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/February/Week4/22-02-2022/calculator.html)
 
