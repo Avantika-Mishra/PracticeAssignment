@@ -88,8 +88,8 @@ form{
     color: #efefef;
 }
 .theme_switch ~ span::after{
-    content: 'On';
+    content: 'Dark Mode On';
 }
 .theme_switch:checked ~ span::after{
-   content: 'Off';
+   content: 'Dark Mode Off';
 }
