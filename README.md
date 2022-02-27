@@ -12,7 +12,7 @@ Assignment 2:-Assignment 2:-RPS Game(https://avantika-mishra.github.io/Jan22Web-
 
 Registration:-(https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/February/Week4/23-02-2022/registration.html)
 
-Login:-(https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/February/Week4/23-02-2022/login.html)]
+Login:-(https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/February/Week4/23-02-2022/login.html) ]
 
 24/02/2022:-[Facebook:-(https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/February/Week4/24-02-2022/facebook.html)
 
