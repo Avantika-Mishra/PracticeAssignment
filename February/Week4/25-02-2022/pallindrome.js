@@ -17,5 +17,5 @@ function validatePalindrome(str){
 
     const value =validatePalindrome(String);
 
-    console.log(value);
+    document.write(value);
 
