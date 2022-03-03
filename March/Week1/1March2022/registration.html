@@ -1,0 +1,55 @@
+<!--Assignment 1: -> On your registration form. You need to have password and confirm password. When I click on the submit button, check if both of them are same or not. If they same, show ok, otherwise show some error message.-->
+
+<!--Registration from UI-->
+
+<html>
+    <head>
+        <title>Avantika</title>
+        <link rel="icon" href="https://i.pinimg.com/736x/bc/52/45/bc52454a8812c6dc9d8d917e3086ae23.jpg">
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./registration.css">
+    </head>
+    <body>
+        <form onSubmit="return verifyPassword (this)">
+        <h1>Create a New Account</h1>
+        <div class="container">
+         <form action="login.html">
+        <label id="color"  for="name">First Name:-</label>
+        <input type="text" id="box" placeholder="Example:-Avantika" name="First Name" value="" required autofocus/><br/><br/>
+        <label id="color" for="name">Last Name:-</label>
+        <input type="text" id="box" placeholder="Example:-Mishra" name="Last Name" value="" required autofocus/><br/><br/>
+        <label id="color" for="name">Email:-</label>
+        <input type="text" 	id="box" placeholder="Enter email" name="email" required pattern=".+@gmail\.com" value="" required autofocus/><br/><br/>
+        <label id="color" for="name">Password:-</label>
+        <input type="password" name="pass1" placeholder="Enter your password" autocomplete="current-password"
+        pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Must contain atleast one number and one uppercase and lowercase letter,and atleast 8 or more characters"   required autofocus/><br/><br/>
+        <label id="color" for="name">Confirm Password:-</label>
+        <input type="password" name="pass2" placeholder="Confirm your password" autocomplete="current-password"
+        pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Must contain atleast one number and one uppercase and lowercase letter,and atleast 8 or more characters"   required autofocus/><br/><br/>
+                <label id="color" for="Gender">Choose your Gender:</label><br>
+                <label id="color" for="Male">Male:</label>
+                <input type="radio" name="gender" id="Male" value="male"><br>
+                <label id="color" for="Female">Female:</label>
+                <input type="radio" name="gender" id="Female" value="Female" checked><br><br>
+                <input id="check" type="checkbox" name="check">
+                I agree to the terms and conditions<br/><br/><br/>
+              
+            <button id="btn" type="submit" name="tnc">Sign Up</button>
+        </form><br/>
+
+        <p>If you have already an account.</p>
+            <a class="" href="./login.html">Login</a>
+            </div>
+            <div id="message">
+                <h3>Password must contain the following:</h3><br/>
+                <p id="letter" class="invalid">A <b>lowercase</b> letter</p><br/>
+                <p id="capital" class="invalid">A <b>capital (uppercase)</b> letter</p><br/>
+                <p id="number" class="invalid">A <b>number</b></p><br/>
+                <p id="length" class="invalid">Minimum <b>8 characters</b></p><br/>
+              </div>
+              <script src="./registration.js"></script>
+            </form>
+    </body>
+</html>
