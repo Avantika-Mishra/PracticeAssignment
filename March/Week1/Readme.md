@@ -39,3 +39,16 @@ Hosted Links:-
 Assignment2:->( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/1March2022/sum.html ) )
 
 02/03/2022:->( Assignment 1:-> (  https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/02-03-2022/Error404.html )
+
+Assignment2:-> Gallery
+
+
+
+03/03/2022:-> (Assignment 1:-> (  https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/03-03-2022/newswap.html  
+or   
+https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/03-03-2022/swapping.html  )
+
+
+
+Assignment 2:-> (https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/03-03-2022/toggle.html ))
+
