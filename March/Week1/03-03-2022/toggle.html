@@ -1,0 +1,27 @@
+<!--Assignment 1: -> Create a page, have a toggle button. On this button, if I click once, show the popup, inside the popup have the close button. -> I should be able to do it again and again without refresh.-->
+<!Doctype html>
+<html lang="en">
+    <head>
+        <title>Togle</title>
+        <meta charset="utf-8">
+        <mete http-equiv="x-ua-compatible" contents="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="./toggle.css">
+    </head>
+    <body class="light">
+        <!--Round Switch-->
+        <label class="switch">
+            <input type="checkbox"/>
+            <span class="slider round"></span>
+        </label><br/>
+
+            <div class="maindiv">
+                <button id="showpop_up_button" class="" onclick="pop_up_show();">Showpop up</button>
+                <div id="main" class="none">
+                    <h2>Show Popup msg</h2>
+                    <button onclick="pop_up_close();" id="pop_up_close">Close the Popup</button>
+                </div>
+            </div>
+        <script src="./toggle.js"></script>
+    </body>
+</html>
