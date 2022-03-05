@@ -1,5 +1,7 @@
 March Assignments
+
 Week 1 
+
 28-02-2022 :
 Create a page where I have 1 button. -> When I click on that button. Open a prompt. (Ask for a number). -> That means, do parseInt. (If it is NaN, then show some kind of alert or something). -> If is a number. ---> Print (document.write) FizzBuzz Series upto that number. input is 20 1 2 Fizz 4 Buzz Fizz 7 8 Fizz Buzz 11 Fizz 13 14 FizzBuzz 16 17 Fizz 19 Buzz
 If number is divisible by 3, print Fizz (Foo)
@@ -30,7 +32,10 @@ Even if you display in console, it's okay.
 Hosted Links:-
 
 
-28/02/2022:-( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/28-02-2022/index.html )
-01/03/2022:-( Assignment1:- ( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/1March2022/registration.html )
+28/02/2022:-> (Assignment:- https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/28-02-2022/index.html )
 
-Assignment2:-( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/1March2022/sum.html ) )
+01/03/2022:-> (Assignment1:-( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/1March2022/registration.html )
+
+Assignment2:->( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/1March2022/sum.html ) )
+
+02/03/2022:->( Assignment 1:-> (  https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/02-03-2022/Error404.html )
