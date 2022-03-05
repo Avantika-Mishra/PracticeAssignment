@@ -8,4 +8,10 @@ Even if you display in console, it's okay.
 
 Hosted Links:-
 
-Assignment 1:-> (  https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/ )
+Assignment 1:-> (  https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/03-03-2022/newswap.html  
+or   
+https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/03-03-2022/swapping.html  )
+
+
+
+Assignment 2:-> (https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment )
