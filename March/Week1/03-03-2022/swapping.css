@@ -1,0 +1,16 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to top left, #4ec49e, #518b48 , #23aa6b);
+}
+
+div {
+    font-family: sans-serif;
+    font-size: 60px;
+    line-height: 1.5;
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: aqua;
+}
