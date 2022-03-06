@@ -40,7 +40,7 @@ Assignment2:->( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignme
 
 02/03/2022:->( Assignment 1:-> (  https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/02-03-2022/Error404.html )
 
-Assignment2:-> Gallery
+Assignment 2:-> ( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/02-03-2022/Gallery.html )
 
 
 
