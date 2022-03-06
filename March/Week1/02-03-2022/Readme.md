@@ -7,4 +7,4 @@ Hosted links:-
 Assignment 1:-> (  https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/02-03-2022/Error404.html )
 
 
-Assignment 2:-> (  https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/ )
+Assignment 2:-> (  https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/02-03-2022/Gallery.html )
