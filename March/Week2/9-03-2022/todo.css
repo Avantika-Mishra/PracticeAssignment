@@ -1,0 +1,372 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    margin: 0px;
+    font-family: cursive;
+    height: 90vh;
+    
+    background: linear-gradient(to top left, #6f30c0, #6cc4df , #df6c9c, #6cbbdf );
+    text-align: center;
+    font-size: 40px;
+}
+.main{
+    max-width:50vw;
+    height: auto;
+    position: relative;
+    top: 8vh;
+    margin: auto;
+    background-color: #1f1e2f;
+    /*width: 100vw;
+    height: 100vh;*/
+}
+.nav{
+    border-radius: 20px;
+    height: 15%;
+}
+nav ul
+{
+    display: flex;
+    padding: 3px 5px;
+    margin: 2px;
+    flex-direction: row;
+    list-style: none;
+    justify-content: center;
+    padding-top: 3%;
+}
+nav ul li a
+{
+    padding: 5px 5px;
+    font-size: 15px;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+}
+nav ul li a:hover
+{
+    color: darkblue;
+    border-bottom: 2px solid rgb(192, 84, 102);
+}
+h4{
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+}
+#date{
+    color: gray;
+    margin-top: -60px;
+    font-size: small;
+}
+#todo_input{
+    width: 270px;
+    height: 30px;
+}
+#add_btn{
+    width: 70px;
+    height: 30px;
+    background-color: turquoise;
+    border-radius: 10%;
+}
+.task span{
+    color: rgb(255, 249, 249);
+    text-align: left;
+    margin-top: -15px;
+}
+.task p{
+    color: grey;
+    margin-top: -15px;
+    margin-left: 80px;
+    font-size: 30px;
+    text-align: left;
+}
+.span_container{
+    text-align: left;
+    justify-content: left;
+}
+.menu
+{
+    flex: 1;
+    text-align: right;
+    margin-top: -100px;
+}
+.menu ul li {
+    list-style: none;
+    display: inline-block;
+    position: relative;
+}
+.menu ul li a
+{
+    text-decoration: none;
+    color: white;
+    transition: 1s;
+}
+.menu > li,.menu > a 
+{
+    display: inline-block;
+}
+.menu li
+{
+    position: relative;
+}
+.menu a 
+{
+    text-decoration: none; 
+    color: #fff;
+    display: block;
+    padding: 10px 1.5rem;
+    position: relative;
+    transition: background-color .22s ease, color .22s ease;
+}
+.submenu
+{
+    position: absolute;
+    background-color: #2c3e50;
+    width: 200px;
+    display: none;
+}
+.menu li:hover > .submenu,.submenu li:hover 
+{
+    display: block;
+    font-size: small;
+    text-align: left;
+}
+
+.my_menu
+{
+    flex: 1;
+    text-align: right;
+    margin-top: -80px;
+}
+.my_menu ul li {
+    list-style: none;
+    display: inline-block;
+    position: relative;
+}
+.my_menu ul li a
+{
+    text-decoration: none;
+    color: white;
+    transition: 1s;
+}
+.my_menu > li,.menu > a 
+{
+    display: inline-block;
+}
+.my_menu li
+{
+    position: relative;
+}
+.my_menu a 
+{
+    text-decoration: none; 
+    color: #fff;
+    display: block;
+    padding: 10px 1.5rem;
+    position: relative;
+    transition: background-color .22s ease, color .22s ease;
+}
+.submenu
+{
+    position: absolute;
+    background-color: #2c3e50;
+    width: 200px;
+    display: none;
+}
+.my_menu li:hover > .submenu,.submenu li:hover 
+{
+    display: block;
+    font-size: small;
+    text-align: left;
+}
+
+.mym_menu
+{
+    flex: 1;
+    text-align: right;
+    margin-top: -80px;
+}
+.mym_menu ul li {
+    list-style: none;
+    display: inline-block;
+    position: relative;
+}
+.mym_menu ul li a
+{
+    text-decoration: none;
+    color: white;
+    transition: 1s;
+}
+.mym_menu > li,.menu > a 
+{
+    display: inline-block;
+}
+.my_menu li
+{
+    position: relative;
+}
+.mym_menu a 
+{
+    text-decoration: none; 
+    color: #fff;
+    display: block;
+    padding: 10px 1.5rem;
+    position: relative;
+    transition: background-color .22s ease, color .22s ease;
+}
+.submenu
+{
+    position: absolute;
+    background-color: #2c3e50;
+    width: 200px;
+    display: none;
+}
+.mym_menu li:hover > .submenu,.submenu li:hover 
+{
+    display: block;
+    font-size: small;
+    text-align: left;
+}
+
+.my_menu1
+{
+    flex: 1;
+    text-align: right;
+    margin-top: -100px;
+}
+.my_menu1 ul li {
+    list-style: none;
+    display: inline-block;
+    position: relative;
+}
+.my_menu1 ul li a
+{
+    text-decoration: none;
+    color: white;
+    transition: 1s;
+}
+.my_menu1 > li,.menu > a 
+{
+    display: inline-block;
+}
+.my_menu1 li
+{
+    position: relative;
+}
+.my_menu1 a 
+{
+    text-decoration: none; 
+    color: #fff;
+    display: block;
+    padding: 10px 1.5rem;
+    position: relative;
+    transition: background-color .22s ease, color .22s ease;
+}
+.submenu
+{
+    position: absolute;
+    background-color: #2c3e50;
+    width: 200px;
+    display: none;
+}
+.my_menu1 li:hover > .submenu,.submenu li:hover 
+{
+    display: block;
+    font-size: small;
+    text-align: left;
+}
+
+.my_menu2
+{
+    flex: 1;
+    text-align: right;
+    margin-top: -80px;
+}
+.my_menu2 ul li {
+    list-style: none;
+    display: inline-block;
+    position: relative;
+}
+.my_menu2 ul li a
+{
+    text-decoration: none;
+    color: white;
+    transition: 1s;
+}
+.my_menu2 > li,.menu > a 
+{
+    display: inline-block;
+}
+.my_menu2 li
+{
+    position: relative;
+}
+.my_menu2 a 
+{
+    text-decoration: none; 
+    color: #fff;
+    display: block;
+    padding: 10px 1.5rem;
+    position: relative;
+    transition: background-color .22s ease, color .22s ease;
+}
+.submenu
+{
+    position: absolute;
+    background-color: #2c3e50;
+    width: 200px;
+    display: none;
+}
+.my_menu2 li:hover > .submenu,.submenu li:hover 
+{
+    display: block;
+    font-size: small;
+    text-align: left;
+}
+
+.my_menu3
+{
+    flex: 1;
+    text-align: right;
+    margin-top: -80px;
+}
+.my_menu3 ul li {
+    list-style: none;
+    display: inline-block;
+    position: relative;
+}
+.my_menu3 ul li a
+{
+    text-decoration: none;
+    color: white;
+    transition: 1s;
+}
+.my_menu3 > li,.menu > a 
+{
+    display: inline-block;
+}
+.my_menu3 li
+{
+    position: relative;
+}
+.my_menu3 a 
+{
+    text-decoration: none; 
+    color: #fff;
+    display: block;
+    padding: 10px 1.5rem;
+    position: relative;
+    transition: background-color .22s ease, color .22s ease;
+}
+.submenu
+{
+    position: absolute;
+    background-color: #2c3e50;
+    width: 200px;
+    display: none;
+}
+.my_menu3 li:hover > .submenu,.submenu li:hover 
+{
+    display: block;
+    font-size: small;
+    text-align: left;
+}
