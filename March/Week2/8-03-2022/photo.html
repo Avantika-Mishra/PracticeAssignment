@@ -1,0 +1,91 @@
+<!--Assignment 1: -> Continuing on the Gallery, add a functionality. On each of the image, when I click, show in a larger zoom popup. -> On clicking of any image, show in a popup format. -> That popup will have a close icon. (❌). Clicking on this will close the popup. -> If you click outside the popup, then also the popup should close (This is mandatory to implement).
+Reference: -> https://www.lightgalleryjs.com/ -> https://photoswipe.com/ -> https://www.ajio.com/s/starting-at-rs-399-4593-65131-->
+
+
+<!DOCTYPE html>
+<html lang="wn">
+    <head>
+        <title>Cartoon Gallery</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">       
+        <link rel="stylesheet" href="./photo.css">
+    </head>
+    <body>
+        <div style="text-align:center">
+            <h2>Cartoon Image Gallery</h2>
+            <p>Click on the images below:</p>
+          </div>
+          
+          <!-- The four columns -->
+          <div class="row">
+            <div class="column">
+              <img id="myImg" src="https://th.bing.com/th/id/OIP.zBIQdRg8tywlFV2wkrtO2gHaKi?w=185&h=264&c=7&r=0&o=5&pid=1.7" alt="Radha Krishna" style="width:20%">
+              <div id="myModal" class="modal">
+                <span class="close">&times;</span>
+                <img class="modal-content" id="img01">
+                <div id="caption"></div>
+              </div>
+            </div>
+            <div class="column">
+              <img id="myImg1" src="https://th.bing.com/th/id/OIP.l8TAffSd7GsT5RcEBNCq3QAAAA?w=185&h=254&c=7&r=0&o=5&pid=1.7" alt="Rabbit" style="width:20%">
+              <div id="myModal1" class="modal">
+                <span class="close">&times;</span>
+                <img class="modal-content" id="img02">
+                <div id="caption1"></div>
+              </div>
+            </div>
+            <div class="column">
+              <img id="myImg2" src="https://th.bing.com/th/id/OIP.5dJcdpMsNWngFrDBbeSXvgHaNK?w=185&h=329&c=7&r=0&o=5&pid=1.7" alt="Tom & Jerry" style="width:20%">
+              <div id="myModal2" class="modal">
+                <span class="close">&times;</span>
+                <img class="modal-content" id="img2">
+                <div id="caption2"></div>
+              </div>
+            </div>
+            <div class="column">
+              <img id="myImg3" src="https://th.bing.com/th/id/OIP.WVEv6Qe2gHKa1qk_gzY0UwHaMK?w=185&h=304&c=7&r=0&o=5&pid=1.7" alt="Baby" style="width:20%">
+              <div id="myModal3" class="modal">
+                <span class="close">&times;</span>
+                <img class="modal-content" id="img03">
+                <div id="caption3"></div>
+              </div>
+            </div>
+          </div>
+          <!-- The four columns -->
+          <div class="row">
+            <div class="column">
+              <img id="myImg4" src="https://th.bing.com/th/id/OIP.f_oHoS0Ihy3tDRixToT7LAHaNK?w=185&h=329&c=7&r=0&o=5&pid=1.7" alt="Boy" style="width:20%">
+              <div id="myModal4" class="modal">
+                <span class="close">&times;</span>
+                <img class="modal-content" id="img04">
+                <div id="caption4"></div>
+              </div>
+            </div>
+            <div class="column">
+              <img id="myImg5" src="https://th.bing.com/th/id/OIP.smmgrOyCywNNemJYzsYZswHaNL?w=185&h=329&c=7&r=0&o=5&pid=1.7" alt="Mouse" style="width:20%" >
+              <div id="myModal5" class="modal">
+                <span class="close">&times;</span>
+                <img class="modal-content" id="img05">
+                <div id="caption5"></div>
+              </div>
+            </div>
+            <div class="column">
+              <img id="myImg6" src="https://th.bing.com/th/id/OIP.2TIGalClx_z4TtHO3CMaBQHaL_?w=185&h=300&c=7&r=0&o=5&pid=1.7" alt="Cute Rabbit" style="width:20%">
+              <div id="myModal6" class="modal">
+                <span class="close">&times;</span>
+                <img class="modal-content" id="img06">
+                <div id="caption6"></div>
+              </div>
+            </div>
+            <div class="column">
+              <img id="myImg7" src="https://th.bing.com/th/id/OIP.Qoj-eZUh5ho0fSdGoCZZ5QHaNK?w=185&h=329&c=7&r=0&o=5&pid=1.7" alt="Barbie" style="width:20%">
+              <div id="myModal7" class="modal">
+                <span class="close">&times;</span>
+                <img class="modal-content" id="img07">
+                <div id="caption7"></div>
+              </div>
+            </div>
+          </div>
+        <script src="./photo.js"></script>
+    </body>
+</html>
