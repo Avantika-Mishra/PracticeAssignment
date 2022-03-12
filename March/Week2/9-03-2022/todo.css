@@ -6,7 +6,6 @@ body{
     margin: 0px;
     font-family: cursive;
     height: 90vh;
-    
     background: linear-gradient(to top left, #6f30c0, #6cc4df , #df6c9c, #6cbbdf );
     text-align: center;
     font-size: 40px;
@@ -369,4 +368,10 @@ h4{
     display: block;
     font-size: small;
     text-align: left;
+}
+
+#span_container{
+    margin-left: 80px;
+    display: flex;
+    justify-content: left;
 }
