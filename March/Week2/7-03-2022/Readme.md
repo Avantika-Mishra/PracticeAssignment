@@ -12,4 +12,4 @@ Assiggnment1:- ( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignm
 
 
 
-Assignment2:- ( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/ )
+Assignment2:- ( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week2/7-03-2022/instagram.html )
