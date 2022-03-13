@@ -1,1 +1,8 @@
 
+(7 March to 11 March)
+
+Hosted links of (07/03/2022):-
+
+Assiggnment1:- ( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week2/7-03-2022/todo.html )
+
+Assignment2:- ( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week2/7-03-2022/instagram.html )
