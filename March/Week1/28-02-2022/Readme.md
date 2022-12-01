@@ -1,4 +1,4 @@
 
 Hosted Links:
 
-( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/28-02-2022/index.html )
+( https://avantika-mishra.github.io/PracticeAssignment/March/Week1/28-02-2022/index.html )
