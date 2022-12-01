@@ -7,9 +7,9 @@ Assignment 2: Create Instagram UI. (The mobile UI). It should have functionalty 
 
 Hosted links of (07/03/2022):-
 
-Assiggnment1:- ( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week2/7-03-2022/todo.html )
+Assiggnment1:- ( https://avantika-mishra.github.io/PracticeAssignment/March/Week2/7-03-2022/todo.html )
 
 
 
 
-Assignment2:- ( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week2/7-03-2022/instagram.html )
+Assignment2:- ( https://avantika-mishra.github.io/PracticeAssignment/March/Week2/7-03-2022/instagram.html )
