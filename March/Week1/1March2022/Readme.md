@@ -4,9 +4,9 @@ Assignment 2: Have 2 number input fields and 1 button. When I click on the butto
 
 Hosted links:-
 
-Assignment1:- ( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/1March2022/registration.html )
+Assignment1:- ( https://avantika-mishra.github.io/PracticeAssignment/March/Week1/1March2022/registration.html )
 
 
 
 
-Assignment2:-( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/1March2022/sum.html )
+Assignment2:-( https://avantika-mishra.github.io/PracticeAssignment/March/Week1/1March2022/sum.html )
