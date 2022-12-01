@@ -31,23 +31,23 @@ Even if you display in console, it's okay.
 Hosted Links:-
 
 
-28/02/2022:-> (Assignment:- https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/28-02-2022/index.html )
+28/02/2022:-> (Assignment:- https://avantika-mishra.github.io/PracticeAssignment/March/Week1/28-02-2022/index.html )
 
-01/03/2022:-> (Assignment1:-( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/1March2022/registration.html )
+01/03/2022:-> (Assignment1:-( https://avantika-mishra.github.io/PracticeAssignment/March/Week1/1March2022/registration.html )
 
-Assignment2:->( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/1March2022/sum.html ) )
+Assignment2:->( https://avantika-mishra.github.io/PracticeAssignment/March/Week1/1March2022/sum.html ) )
 
-02/03/2022:->( Assignment 1:-> (  https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/02-03-2022/Error404.html )
+02/03/2022:->( Assignment 1:-> ( https://avantika-mishra.github.io/PracticeAssignment/March/Week1/02-03-2022/Error404.html )
 
-Assignment 2:-> ( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/02-03-2022/Gallery.html )
+Assignment 2:-> ( https://avantika-mishra.github.io/PracticeAssignment/March/Week1/02-03-2022/Gallery.html )
 
 
 
-03/03/2022:-> (Assignment 1:-> (  https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/03-03-2022/newswap.html  
+03/03/2022:-> (Assignment 1:-> ( https://avantika-mishra.github.io/PracticeAssignment/March/Week1/03-03-2022/newswap.html  
 or   
-https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/03-03-2022/swapping.html  )
+https://avantika-mishra.github.io/PracticeAssignment/March/Week1/03-03-2022/swapping.html  )
 
 
 
-Assignment 2:-> (https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week1/03-03-2022/toggle.html ))
+Assignment 2:-> ( https://avantika-mishra.github.io/PracticeAssignment/March/Week1/03-03-2022/toggle.html ))
 
