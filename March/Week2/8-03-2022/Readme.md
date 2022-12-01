@@ -3,4 +3,4 @@ Assignment 1: -> Continuing on the Gallery, add a functionality. On each of the 
 
 
 Hosted link of 08/03/2022:-
-Assignment :- ( https://avantika-mishra.github.io/Jan22Web-Fundamentals-Assignment/March/Week2/8-03-2022/photo.html)
+Assignment :- ( https://avantika-mishra.github.io/PracticeAssignment/March/Week2/8-03-2022/photo.html)
